@@ -1,0 +1,1007 @@
+{
+  "items": [
+    {
+      "description": "In the fast-evolving landscape of artificial intelligence, Large Language Models (LLMs) have emerged as groundbreaking tools with the potential to emulate complex human linguistic abilities. Their profound impact on healthcare, a field at the crossroads of multifaceted data and intricate decision-making, is of immense interest. This repository delves into the integration challenges and showcases the breadth of LLMs' applications within the medical sphere.\nHerein, we offer a curated anthology that navigates through the realm of general-purpose and specialized LLMs, elucidating their roles in enhancing medical research, streamlining clinical operations, and supporting diagnostic processes. We cast a spotlight on multimodal LLMs, championing their sophistication in harmonizing varied data streams such as medical imagery and electronic health records (EHRs) to refine diagnostic precision. Advancing into the frontiers of innovation, we explore LLM-empowered autonomous healthcare agents, scrutinizing their capacity for personalized care and intricate clinical reasoning. Additionally, we present a synthesis of evaluative strategies critical for verifying the dependability and security of LLMs within medical settings.\nOur extensive analysis sheds light on the transformative promise LLMs hold for healthcare's future. Yet, we underscore the indispensable call for ongoing refinement and ethical vigilance as precursors to their successful clinical integration.\nPlease note: This repository's scope is centered on the technological evolution of LLMs in medicine. For insights into clinical deployments and applications of LLMs, we invite you to consult our comprehensive review.\nWe sincerely value all contributions, whether through pull requests, issue reports, emails, or other forms of communication.",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/06] MedicalGPT: Training Medical GPT Model Ming Xu et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T03:39:57Z",
+            "owner": "shibing624",
+            "repo": "MedicalGPT",
+            "stars": 5712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge Haochun Wang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T05:56:23Z",
+            "owner": "SCIR-HI",
+            "repo": "Huatuo-Llama-Med-Chinese",
+            "stars": 4984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] Doctor Dignity Siraj Raval et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-21T01:07:13Z",
+            "owner": "llSourcell",
+            "repo": "Doctor-Dignity",
+            "stars": 3823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/03] ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge Yunxiang Li et al. Cureus. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-17T22:24:31Z",
+            "owner": "Kent0n-Li",
+            "repo": "ChatDoctor",
+            "stars": 3631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/11] MEDITRON-70B: Scaling Medical Pretraining for Large Language Models Zeming Chen et al. arXiv. [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-10T11:48:37Z",
+            "owner": "epfLLM",
+            "repo": "meditron",
+            "stars": 2204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] HuatuoGPT, towards Taming Language Model to Be a Doctor Hongbo Zhang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-16T20:21:17Z",
+            "owner": "FreedomIntelligence",
+            "repo": "HuatuoGPT",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/07] MING: A Chinese Medical Consultation Large Model Yusheng Liao et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T09:29:13Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "MING",
+            "stars": 1169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/03] ChatGLM-Med Haochun Wang et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-19T09:17:15Z",
+            "owner": "SCIR-HI",
+            "repo": "Med-ChatGLM",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/08] CareGPT: Medical LLM, Open Source Driven for a Healthy Future Rongsheng Wang et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-09T12:34:28Z",
+            "owner": "WangRongsheng",
+            "repo": "CareGPT",
+            "stars": 998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT Yirong Chen et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-25T17:43:45Z",
+            "owner": "scutcyr",
+            "repo": "BianQue",
+            "stars": 884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task Honglin Xiong et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-19T06:49:02Z",
+            "owner": "xionghonglin",
+            "repo": "DoctorGLM",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] QiZhenGPT: An Open Source Chinese Medical Large Language Model Yao Chang et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-09T07:07:36Z",
+            "owner": "CMKRG",
+            "repo": "QiZhenGPT",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] PMC-LLaMA: Towards Building Open-source Language Models for Medicine Chaoyi Wu et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-08T12:45:23Z",
+            "owner": "chaoyi-wu",
+            "repo": "PMC-LLaMA",
+            "stars": 679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] ChatMed: A Chinese Medical Large Language Model Wei Zhu et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-16T14:33:10Z",
+            "owner": "michael-wzhu",
+            "repo": "ChatMed",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/08] DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation Zhijie Bao et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-28T21:33:14Z",
+            "owner": "FudanDISC",
+            "repo": "DISC-MedLLM",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data Tianyu Han et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-07T12:38:17Z",
+            "owner": "kbressem",
+            "repo": "medAlpaca",
+            "stars": 565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] CMLM-ZhongJing: Large Language Model is Good Story Listener Yanlan Kang et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-10T06:36:59Z",
+            "owner": "pariskang",
+            "repo": "CMLM-ZhongJing",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06] ShenNong-TCM: A Traditional Chinese Medicine Large Language Model Wei Zhu et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-31T02:59:22Z",
+            "owner": "michael-wzhu",
+            "repo": "ShenNong-TCM-LLM",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06] PULSE OpenMedLab. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-26T08:44:33Z",
+            "owner": "openmedlab",
+            "repo": "PULSE",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06] Sunsimiao: Chinese Medicine LLM Xin Yan et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-13T06:54:26Z",
+            "owner": "X-D-Lab",
+            "repo": "Sunsimiao",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/11] HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs Junying Chen et al. arXiv. [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-30T18:09:25Z",
+            "owner": "FreedomIntelligence",
+            "repo": "HuatuoGPT-II",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/08] Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue Songhua Yang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-12T13:28:54Z",
+            "owner": "SupritYoung",
+            "repo": "Zhongjing",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06] TCMLLM Xuezhong Zhou et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-27T02:55:49Z",
+            "owner": "2020MEAI",
+            "repo": "TCMLLM",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/11] Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks Ling Luo et al. arXiv. [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-28T08:53:22Z",
+            "owner": "DUTIR-BioNLP",
+            "repo": "Taiyi-LLM",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/07] HuangDi: A Generative Large Language Model for Ancient Chinese Medical Texts Jundong Zhang et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-11T07:34:56Z",
+            "owner": "Zlasejd",
+            "repo": "HuangDI",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2022/12] A large language model for electronic health records Xi Yang et al. npj Digital Medicine. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-03T13:00:02Z",
+            "owner": "uf-hobi-informatics-lab",
+            "repo": "GatorTron",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2022/10] Health system-scale language models are all-purpose prediction engines Lavender Yao Jiang et al. Nature. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-28T15:28:26Z",
+            "owner": "nyuolab",
+            "repo": "NYUTron",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10] Publicly Shareable Clinical Large Language Model Built on Synthetic Clinical Notes Sunjun Kweon et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-22T06:36:52Z",
+            "owner": "starmpcc",
+            "repo": "Asclepius",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09] MedChatZH: a Better Medical Adviser Learns from Better Instructions Tan et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-16T08:53:59Z",
+            "owner": "tyang816",
+            "repo": "MedChatZH",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10] AlpaCare:Instruction-tuned Large Language Models for Medical Application Zhang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-08T19:17:16Z",
+            "owner": "XZhang97666",
+            "repo": "AlpaCare",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] CAMEL: Clinically Adapted Model Enhanced from LLaMA Sunjun Kweon et al. [code",
+          "description": "] [blog]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-01T06:32:02Z",
+            "owner": "starmpcc",
+            "repo": "CAMEL",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] Clinfo.AI: Answer Clinical Questions Grounded in Medical Literature Alejandro Lozano et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-20T07:27:35Z",
+            "owner": "som-shahlab",
+            "repo": "Clinfo.AI",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09] HealGPT GR-Tech. [code",
+          "description": "] [demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-13T02:14:47Z",
+            "owner": "TONYCHANBB",
+            "repo": "HealGPT",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Specialized Medical LLMs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/06] Lmflow: An extensible toolkit for finetuning and inference of large foundation models Shizhe Diao et al. arXiv. [code",
+          "description": "] [paper] [blog]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T06:56:25Z",
+            "owner": "OptimalScale",
+            "repo": "LMFlow",
+            "stars": 8484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06] LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day Chunyuan Li et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-04T15:56:12Z",
+            "owner": "microsoft",
+            "repo": "LLaVA-Med",
+            "stars": 2227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/08] BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine Yizhen Luo et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T09:05:56Z",
+            "owner": "PharMolix",
+            "repo": "OpenBioMed",
+            "stars": 1101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] XrayGLM: The first Chinese Medical Multimodal Model that Chest Radiographs Summarization Rongsheng Wang et al. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-20T07:07:22Z",
+            "owner": "WangRongsheng",
+            "repo": "XrayGLM",
+            "stars": 1081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks Kai Zhang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-08T02:18:26Z",
+            "owner": "taokz",
+            "repo": "BiomedGPT",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/08] Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data Chaoyi Wu et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-25T04:41:59Z",
+            "owner": "chaoyi-wu",
+            "repo": "RadFM",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06] XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models Omkar Thawkar et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-08T06:31:22Z",
+            "owner": "mbzuai-oryx",
+            "repo": "XrayGPT",
+            "stars": 530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/07] Med-Flamingo: a Multimodal Medical Few-shot Learner Michael Moor et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-23T18:03:37Z",
+            "owner": "snap-stanford",
+            "repo": "med-flamingo",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/07] Towards Generalist Biomedical AI Tao Tu et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-17T09:07:00Z",
+            "owner": "kyegomez",
+            "repo": "Med-PaLM",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities Chang Shu et al. [blog",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-11T09:57:50Z",
+            "owner": "cambridgeltl",
+            "repo": "visual-med-alpaca",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering Xiaoman Zhang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-06T02:24:55Z",
+            "owner": "xiaoman-zhang",
+            "repo": "PMC-VQA",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/06] XrayPULSE OpenMedLab. [code",
+          "description": "]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-23T07:05:02Z",
+            "owner": "openmedlab",
+            "repo": "XrayPULSE",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] SkinGPT-4: An Interactive Dermatology Diagnostic System with Visual Large Language Model Juexiao Zhou et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-13T21:19:12Z",
+            "owner": "JoshuaChou2018",
+            "repo": "SkinGPT-4",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology Yuxuan Sun et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-11T11:29:27Z",
+            "owner": "superjamessyx",
+            "repo": "Generative-Foundation-AI-Assistant-for-Pathology",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/10] Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare Junling Liu et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-01T12:20:34Z",
+            "owner": "williamliujl",
+            "repo": "Qilin-Med-VL",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "Multimodal LLMs in Medicine"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/11] MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning Tang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-27T02:02:24Z",
+            "owner": "gersteinlab",
+            "repo": "MedAgents",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs Zihao Zhao et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-23T13:17:34Z",
+            "owner": "zhaozh10",
+            "repo": "ChatCAD",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/05] PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology Yuxuan Sun et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-11T11:29:27Z",
+            "owner": "superjamessyx",
+            "repo": "Generative-Foundation-AI-Assistant-for-Pathology",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] ImpressionGPT: An Iterative Optimizing Framework for Radiology Report Summarization with ChatGPT Chong Ma et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-20T07:53:51Z",
+            "owner": "MoMarky",
+            "repo": "ImpressionGPT",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "LLM-Powered Healthcare Agents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/03] G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment Yang Liu et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-04T05:26:17Z",
+            "owner": "nlpyang",
+            "repo": "geval",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09] Safetybench: Evaluating the safety of large language models with multiple choice questions. Zhexin Zhang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-28T09:04:42Z",
+            "owner": "thu-coai",
+            "repo": "SafetyBench",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/02] GPTScore: Evaluate as You Desire Jinlan Fu et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-21T14:55:41Z",
+            "owner": "jinlanfu",
+            "repo": "GPTScore",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/07] Med-HALT: Medical Domain Hallucination Test for Large Language Models. Ankit Pal et al. EMNLP'23. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-07T20:20:57Z",
+            "owner": "medhalt",
+            "repo": "medhalt",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Strategies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Valuable Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related Surveys"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2023/06] A Survey on Multimodal Large Language Models. Shukang Yin et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T02:37:33Z",
+            "owner": "BradyFU",
+            "repo": "Awesome-Multimodal-Large-Language-Models",
+            "stars": 17973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/03] A survey of large language models. Wayne Xin Zhao et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-11T09:51:42Z",
+            "owner": "RUCAIBox",
+            "repo": "LLMSurvey",
+            "stars": 12205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/09] The Rise and Potential of Large Language Model Based Agents: A Survey. Zhiheng Xi et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-12T03:08:58Z",
+            "owner": "WooooDyy",
+            "repo": "LLM-Agent-Paper-List",
+            "stars": 8171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/07] A Survey on Evaluation of Large Language Models. Yupeng Chang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-01T05:43:40Z",
+            "owner": "MLGroupJLU",
+            "repo": "LLM-eval-survey",
+            "stars": 1611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/07] Aligning Large Language Models with Human: A Survey. Yufei Wang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-11T03:38:05Z",
+            "owner": "GaryYufei",
+            "repo": "AlignLLMHumanSurvey",
+            "stars": 742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/08] Instruction Tuning for Large Language Models: A Survey. Shengyu Zhang et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-10T16:28:23Z",
+            "owner": "xiaoya-li",
+            "repo": "Instruction-Tuning-Survey",
+            "stars": 232
+          }
+        }
+      ],
+      "title": "LLM Techniques"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-LLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-31T02:38:24Z",
+            "owner": "Hannibal046",
+            "repo": "Awesome-LLM",
+            "stars": 27256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Chinese-LLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-10T05:03:06Z",
+            "owner": "AiHubCN",
+            "repo": "Awesome-Chinese-LLM",
+            "stars": 22732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CareGPT",
+          "description": "with curated references",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-09T12:34:28Z",
+            "owner": "WangRongsheng",
+            "repo": "CareGPT",
+            "stars": 998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Medical-Healthcare-Dataset-For-LLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-06T23:48:10Z",
+            "owner": "onejune2018",
+            "repo": "Awesome-Medical-Healthcare-Dataset-For-LLM",
+            "stars": 332
+          }
+        }
+      ],
+      "title": "Repositories"
+    },
+    {
+      "description": "If you find this repository useful in your research, please consider citing it.",
+      "items": [],
+      "title": "Citing"
+    },
+    {
+      "description": "This project is licensed under the terms of the MIT License.",
+      "items": [],
+      "title": "Licenses"
+    },
+    {
+      "description": "We have structured our repository by drawing inspiration from the substantial work of repositories such as LLM-Agent-Paper-List, CareGPT, and insights from RadLLM. We extend our sincere gratitude to their contributions.",
+      "items": [],
+      "title": "Acknowledgement"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:47:48.719Z",
+    "original_repository": "mingze-yuan/Awesome-LLM-Healthcare",
+    "original_repository_sha": "36f9d0d5e1d5c698c87adf667d8cf14492761887",
+    "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Healthcare",
+    "enhanced_repository_description": null,
+    "title": "Awesome Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review with stars"
+  }
+}
