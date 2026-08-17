@@ -19,7 +19,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5720
+            "stars": 5724
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2024-05-09T12:34:28Z",
             "owner": "WangRongsheng",
             "repo": "CareGPT",
-            "stars": 998
+            "stars": 999
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2026-07-22T09:05:56Z",
             "owner": "PharMolix",
             "repo": "OpenBioMed",
-            "stars": 1101
+            "stars": 1102
           }
         },
         {
@@ -842,7 +842,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17977
+            "stars": 17978
           }
         },
         {
@@ -932,7 +932,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27266
+            "stars": 27269
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2024-05-09T12:34:28Z",
             "owner": "WangRongsheng",
             "repo": "CareGPT",
-            "stars": 998
+            "stars": 999
           }
         },
         {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:55:09.771Z",
+    "last_updated": "2026-08-17T07:12:20.021Z",
     "original_repository": "mingze-yuan/Awesome-LLM-Healthcare",
     "original_repository_sha": "36f9d0d5e1d5c698c87adf667d8cf14492761887",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Healthcare",
