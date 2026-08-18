@@ -19,7 +19,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5724
+            "stars": 5729
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2024-05-17T22:24:31Z",
             "owner": "Kent0n-Li",
             "repo": "ChatDoctor",
-            "stars": 3631
+            "stars": 3632
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-04-10T11:48:37Z",
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2204
+            "stars": 2205
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2024-12-16T20:21:17Z",
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1319
+            "stars": 1320
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2025-05-23T09:29:13Z",
             "owner": "MediaBrain-SJTU",
             "repo": "MING",
-            "stars": 1171
+            "stars": 1172
           }
         },
         {
@@ -557,7 +557,7 @@
             "last_commit": "2025-07-25T04:41:59Z",
             "owner": "chaoyi-wu",
             "repo": "RadFM",
-            "stars": 564
+            "stars": 565
           }
         },
         {
@@ -784,7 +784,7 @@
             "last_commit": "2025-07-28T09:04:42Z",
             "owner": "thu-coai",
             "repo": "SafetyBench",
-            "stars": 297
+            "stars": 296
           }
         },
         {
@@ -842,7 +842,7 @@
             "last_commit": "2026-08-14T17:17:50Z",
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17978
+            "stars": 17979
           }
         },
         {
@@ -856,7 +856,7 @@
             "last_commit": "2025-03-11T09:51:42Z",
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12206
+            "stars": 12207
           }
         },
         {
@@ -870,7 +870,7 @@
             "last_commit": "2025-09-12T03:08:58Z",
             "owner": "WooooDyy",
             "repo": "LLM-Agent-Paper-List",
-            "stars": 8172
+            "stars": 8171
           }
         },
         {
@@ -932,7 +932,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27269
+            "stars": 27268
           }
         },
         {
@@ -946,7 +946,7 @@
             "last_commit": "2026-05-10T05:03:06Z",
             "owner": "AiHubCN",
             "repo": "Awesome-Chinese-LLM",
-            "stars": 22737
+            "stars": 22741
           }
         },
         {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:12:20.021Z",
+    "last_updated": "2026-08-18T06:59:31.073Z",
     "original_repository": "mingze-yuan/Awesome-LLM-Healthcare",
     "original_repository_sha": "36f9d0d5e1d5c698c87adf667d8cf14492761887",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Healthcare",
