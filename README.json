@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "In the fast-evolving landscape of artificial intelligence, Large Language Models (LLMs) have emerged as groundbreaking tools with the potential to emulate complex human linguistic abilities. Their profound impact on healthcare, a field at the crossroads of multifaceted data and intricate decision-making, is of immense interest. This repository delves into the integration challenges and showcases the breadth of LLMs' applications within the medical sphere.\nHerein, we offer a curated anthology that navigates through the realm of general-purpose and specialized LLMs, elucidating their roles in enhancing medical research, streamlining clinical operations, and supporting diagnostic processes. We cast a spotlight on multimodal LLMs, championing their sophistication in harmonizing varied data streams such as medical imagery and electronic health records (EHRs) to refine diagnostic precision. Advancing into the frontiers of innovation, we explore LLM-empowered autonomous healthcare agents, scrutinizing their capacity for personalized care and intricate clinical reasoning. Additionally, we present a synthesis of evaluative strategies critical for verifying the dependability and security of LLMs within medical settings.\nOur extensive analysis sheds light on the transformative promise LLMs hold for healthcare's future. Yet, we underscore the indispensable call for ongoing refinement and ethical vigilance as precursors to their successful clinical integration.\nPlease note: This repository's scope is centered on the technological evolution of LLMs in medicine. For insights into clinical deployments and applications of LLMs, we invite you to consult our comprehensive review.\nWe sincerely value all contributions, whether through pull requests, issue reports, emails, or other forms of communication.",
-      "items": [],
-      "title": "Introduction"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648505057,
             "language": "Python",
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621826122,
             "language": "Python",
             "last_commit": "2026-07-04T05:56:23Z",
             "owner": "SCIR-HI",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 675378348,
             "language": "Python",
             "last_commit": "2023-09-21T01:07:13Z",
             "owner": "llSourcell",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617219182,
             "language": "Python",
             "last_commit": "2024-05-17T22:24:31Z",
             "owner": "Kent0n-Li",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 722687885,
             "language": "Python",
             "last_commit": "2024-04-10T11:48:37Z",
             "owner": "epfLLM",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627261340,
             "language": "Python",
             "last_commit": "2024-12-16T20:21:17Z",
             "owner": "FreedomIntelligence",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 624889833,
             "language": "Python",
             "last_commit": "2025-05-23T09:29:13Z",
             "owner": "MediaBrain-SJTU",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621824192,
             "language": "Python",
             "last_commit": "2023-05-19T09:17:15Z",
             "owner": "SCIR-HI",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 678044949,
             "language": "Python",
             "last_commit": "2024-05-09T12:34:28Z",
             "owner": "WangRongsheng",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631136535,
             "language": "Python",
             "last_commit": "2023-10-25T17:43:45Z",
             "owner": "scutcyr",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620773009,
             "language": "Python",
             "last_commit": "2023-10-19T06:49:02Z",
             "owner": "xionghonglin",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637692988,
             "language": "Python",
             "last_commit": "2024-08-09T07:07:36Z",
             "owner": "CMKRG",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 632335292,
             "language": "Python",
             "last_commit": "2024-07-08T12:45:23Z",
             "owner": "chaoyi-wu",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 623323703,
             "language": "Python",
             "last_commit": "2023-07-16T14:33:10Z",
             "owner": "michael-wzhu",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 683734361,
             "language": "Python",
             "last_commit": "2023-10-28T21:33:14Z",
             "owner": "FudanDISC",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 620345178,
             "language": "Python",
             "last_commit": "2023-09-07T12:38:17Z",
             "owner": "kbressem",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 647523556,
             "language": "Jupyter Notebook",
             "last_commit": "2026-06-10T06:36:59Z",
             "owner": "pariskang",
@@ -253,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 654028575,
             "language": "Python",
             "last_commit": "2023-08-31T02:59:22Z",
             "owner": "michael-wzhu",
@@ -267,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 649611115,
             "language": "Python",
             "last_commit": "2023-12-26T08:44:33Z",
             "owner": "openmedlab",
@@ -281,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 656242932,
             "language": "Python",
             "last_commit": "2024-09-13T06:54:26Z",
             "owner": "X-D-Lab",
@@ -295,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 669535594,
             "language": "Python",
             "last_commit": "2024-08-30T18:09:25Z",
             "owner": "FreedomIntelligence",
@@ -309,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 667729243,
             "language": "Python",
             "last_commit": "2023-12-12T13:28:54Z",
             "owner": "SupritYoung",
@@ -323,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 659532577,
             "language": "Python",
             "last_commit": "2025-05-27T02:55:49Z",
             "owner": "2020MEAI",
@@ -337,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696068744,
             "language": "Python",
             "last_commit": "2025-07-28T08:53:22Z",
             "owner": "DUTIR-BioNLP",
@@ -351,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672142208,
             "language": "Python",
             "last_commit": "2024-12-11T07:34:56Z",
             "owner": "Zlasejd",
@@ -365,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355960457,
             "language": "Python",
             "last_commit": "2023-11-03T13:00:02Z",
             "owner": "uf-hobi-informatics-lab",
@@ -379,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621037742,
             "language": "Jupyter Notebook",
             "last_commit": "2023-07-28T15:28:26Z",
             "owner": "nyuolab",
@@ -393,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 682438263,
             "language": "Python",
             "last_commit": "2024-08-22T06:36:52Z",
             "owner": "starmpcc",
@@ -407,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 656199075,
             "language": "Python",
             "last_commit": "2025-09-16T08:53:59Z",
             "owner": "tyang816",
@@ -421,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 706953556,
             "language": "Python",
             "last_commit": "2025-02-08T19:17:16Z",
             "owner": "XZhang97666",
@@ -435,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638178366,
             "language": "Python",
             "last_commit": "2023-09-01T06:32:02Z",
             "owner": "starmpcc",
@@ -449,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640027922,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-20T07:27:35Z",
             "owner": "som-shahlab",
@@ -463,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 685989773,
             "language": "Python",
             "last_commit": "2023-10-13T02:14:47Z",
             "owner": "TONYCHANBB",
@@ -474,7 +502,7 @@
       "title": "Specialized Medical LLMs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -483,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 619825247,
             "language": "Python",
             "last_commit": "2026-08-10T06:56:25Z",
             "owner": "OptimalScale",
@@ -497,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643298473,
             "language": "Python",
             "last_commit": "2025-06-04T15:56:12Z",
             "owner": "microsoft",
@@ -511,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627240200,
             "language": "Python",
             "last_commit": "2026-07-22T09:05:56Z",
             "owner": "PharMolix",
@@ -525,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 644351982,
             "language": "Python",
             "last_commit": "2024-11-20T07:07:22Z",
             "owner": "WangRongsheng",
@@ -539,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 639546287,
             "language": "Python",
             "last_commit": "2025-07-08T02:18:26Z",
             "owner": "taokz",
@@ -553,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 673757763,
             "language": "Python",
             "last_commit": "2025-07-25T04:41:59Z",
             "owner": "chaoyi-wu",
@@ -567,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642369312,
             "language": "Python",
             "last_commit": "2024-08-08T06:31:22Z",
             "owner": "mbzuai-oryx",
@@ -581,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 606263696,
             "language": "Python",
             "last_commit": "2023-08-23T18:03:37Z",
             "owner": "snap-stanford",
@@ -595,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672695084,
             "language": "Python",
             "last_commit": "2024-02-17T09:07:00Z",
             "owner": "kyegomez",
@@ -609,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626498767,
             "language": "Python",
             "last_commit": "2024-03-11T09:57:50Z",
             "owner": "cambridgeltl",
@@ -623,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641227214,
             "language": "Python",
             "last_commit": "2024-12-06T02:24:55Z",
             "owner": "xiaoman-zhang",
@@ -637,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658232820,
             "language": "Python",
             "last_commit": "2023-08-23T07:05:02Z",
             "owner": "openmedlab",
@@ -651,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696164796,
             "language": "Python",
             "last_commit": "2024-07-13T21:19:12Z",
             "owner": "JoshuaChou2018",
@@ -665,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642725369,
             "language": "Python",
             "last_commit": "2024-04-11T11:29:27Z",
             "owner": "superjamessyx",
@@ -679,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710215047,
             "language": "Python",
             "last_commit": "2023-12-01T12:20:34Z",
             "owner": "williamliujl",
@@ -690,7 +733,7 @@
       "title": "Multimodal LLMs in Medicine"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -699,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 719279917,
             "language": "Python",
             "last_commit": "2024-05-27T02:02:24Z",
             "owner": "gersteinlab",
@@ -713,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631893654,
             "language": "Python",
             "last_commit": "2024-11-23T13:17:34Z",
             "owner": "zhaozh10",
@@ -727,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642725369,
             "language": "Python",
             "last_commit": "2024-04-11T11:29:27Z",
             "owner": "superjamessyx",
@@ -741,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629538065,
             "language": "Jupyter Notebook",
             "last_commit": "2024-03-20T07:53:51Z",
             "owner": "MoMarky",
@@ -752,253 +799,260 @@
       "title": "LLM-Powered Healthcare Agents"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2023/03] G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment Yang Liu et al. arXiv. [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644607992,
+                "language": "Python",
+                "last_commit": "2024-02-04T05:26:17Z",
+                "owner": "nlpyang",
+                "repo": "geval",
+                "stars": 431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023/09] Safetybench: Evaluating the safety of large language models with multiple choice questions. Zhexin Zhang et al. arXiv. [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687256459,
+                "language": "Python",
+                "last_commit": "2025-07-28T09:04:42Z",
+                "owner": "thu-coai",
+                "repo": "SafetyBench",
+                "stars": 296
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023/02] GPTScore: Evaluate as You Desire Jinlan Fu et al. arXiv. [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598407732,
+                "language": "Python",
+                "last_commit": "2023-02-21T14:55:41Z",
+                "owner": "jinlanfu",
+                "repo": "GPTScore",
+                "stars": 258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2023/07] Med-HALT: Medical Domain Hallucination Test for Large Language Models. Ankit Pal et al. EMNLP'23. [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664662511,
+                "language": "Python",
+                "last_commit": "2026-03-07T20:20:57Z",
+                "owner": "medhalt",
+                "repo": "medhalt",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Strategies"
+        }
+      ],
       "title": "Evaluation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "[2023/03] G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment Yang Liu et al. arXiv. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-04T05:26:17Z",
-            "owner": "nlpyang",
-            "repo": "geval",
-            "stars": 431
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[2023/06] A Survey on Multimodal Large Language Models. Shukang Yin et al. arXiv. [paper",
+                  "description": "] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 642642539,
+                    "language": null,
+                    "last_commit": "2026-08-14T17:17:50Z",
+                    "owner": "BradyFU",
+                    "repo": "Awesome-Multimodal-Large-Language-Models",
+                    "stars": 17983
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "[2023/03] A survey of large language models. Wayne Xin Zhao et al. arXiv. [paper",
+                  "description": "] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 613731840,
+                    "language": "Python",
+                    "last_commit": "2025-03-11T09:51:42Z",
+                    "owner": "RUCAIBox",
+                    "repo": "LLMSurvey",
+                    "stars": 12206
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "[2023/09] The Rise and Potential of Large Language Model Based Agents: A Survey. Zhiheng Xi et al. arXiv. [paper",
+                  "description": "] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 690609896,
+                    "language": null,
+                    "last_commit": "2025-09-12T03:08:58Z",
+                    "owner": "WooooDyy",
+                    "repo": "LLM-Agent-Paper-List",
+                    "stars": 8174
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "[2023/07] A Survey on Evaluation of Large Language Models. Yupeng Chang et al. arXiv. [paper",
+                  "description": "] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 661178361,
+                    "language": null,
+                    "last_commit": "2026-08-01T05:43:40Z",
+                    "owner": "MLGroupJLU",
+                    "repo": "LLM-eval-survey",
+                    "stars": 1610
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "[2023/07] Aligning Large Language Models with Human: A Survey. Yufei Wang et al. arXiv. [paper",
+                  "description": "] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 669704171,
+                    "language": null,
+                    "last_commit": "2023-09-11T03:38:05Z",
+                    "owner": "GaryYufei",
+                    "repo": "AlignLLMHumanSurvey",
+                    "stars": 742
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "[2023/08] Instruction Tuning for Large Language Models: A Survey. Shengyu Zhang et al. arXiv. [paper",
+                  "description": "] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 687193247,
+                    "language": null,
+                    "last_commit": "2025-08-10T16:28:23Z",
+                    "owner": "xiaoya-li",
+                    "repo": "Instruction-Tuning-Survey",
+                    "stars": 232
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "LLM Techniques"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related Surveys"
         },
         {
-          "node_type": "item",
-          "title": "[2023/09] Safetybench: Evaluating the safety of large language models with multiple choice questions. Zhexin Zhang et al. arXiv. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-28T09:04:42Z",
-            "owner": "thu-coai",
-            "repo": "SafetyBench",
-            "stars": 296
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023/02] GPTScore: Evaluate as You Desire Jinlan Fu et al. arXiv. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-21T14:55:41Z",
-            "owner": "jinlanfu",
-            "repo": "GPTScore",
-            "stars": 258
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023/07] Med-HALT: Medical Domain Hallucination Test for Large Language Models. Ankit Pal et al. EMNLP'23. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-07T20:20:57Z",
-            "owner": "medhalt",
-            "repo": "medhalt",
-            "stars": 34
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome-LLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 603049672,
+                "language": null,
+                "last_commit": "2025-07-31T02:38:24Z",
+                "owner": "Hannibal046",
+                "repo": "Awesome-LLM",
+                "stars": 27271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Chinese-LLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 643916827,
+                "language": null,
+                "last_commit": "2026-05-10T05:03:06Z",
+                "owner": "AiHubCN",
+                "repo": "Awesome-Chinese-LLM",
+                "stars": 22746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CareGPT",
+              "description": "with curated references",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 678044949,
+                "language": "Python",
+                "last_commit": "2024-05-09T12:34:28Z",
+                "owner": "WangRongsheng",
+                "repo": "CareGPT",
+                "stars": 999
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Medical-Healthcare-Dataset-For-LLM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679057807,
+                "language": null,
+                "last_commit": "2024-06-06T23:48:10Z",
+                "owner": "onejune2018",
+                "repo": "Awesome-Medical-Healthcare-Dataset-For-LLM",
+                "stars": 332
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Repositories"
         }
       ],
-      "title": "Strategies"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Valuable Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Related Surveys"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "[2023/06] A Survey on Multimodal Large Language Models. Shukang Yin et al. arXiv. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-14T17:17:50Z",
-            "owner": "BradyFU",
-            "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17982
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023/03] A survey of large language models. Wayne Xin Zhao et al. arXiv. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-11T09:51:42Z",
-            "owner": "RUCAIBox",
-            "repo": "LLMSurvey",
-            "stars": 12205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023/09] The Rise and Potential of Large Language Model Based Agents: A Survey. Zhiheng Xi et al. arXiv. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-12T03:08:58Z",
-            "owner": "WooooDyy",
-            "repo": "LLM-Agent-Paper-List",
-            "stars": 8173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023/07] A Survey on Evaluation of Large Language Models. Yupeng Chang et al. arXiv. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-01T05:43:40Z",
-            "owner": "MLGroupJLU",
-            "repo": "LLM-eval-survey",
-            "stars": 1610
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023/07] Aligning Large Language Models with Human: A Survey. Yufei Wang et al. arXiv. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-09-11T03:38:05Z",
-            "owner": "GaryYufei",
-            "repo": "AlignLLMHumanSurvey",
-            "stars": 742
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2023/08] Instruction Tuning for Large Language Models: A Survey. Shengyu Zhang et al. arXiv. [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-08-10T16:28:23Z",
-            "owner": "xiaoya-li",
-            "repo": "Instruction-Tuning-Survey",
-            "stars": 232
-          }
-        }
-      ],
-      "title": "LLM Techniques"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome-LLM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-31T02:38:24Z",
-            "owner": "Hannibal046",
-            "repo": "Awesome-LLM",
-            "stars": 27271
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-Chinese-LLM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-10T05:03:06Z",
-            "owner": "AiHubCN",
-            "repo": "Awesome-Chinese-LLM",
-            "stars": 22744
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CareGPT",
-          "description": "with curated references",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-05-09T12:34:28Z",
-            "owner": "WangRongsheng",
-            "repo": "CareGPT",
-            "stars": 999
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-Medical-Healthcare-Dataset-For-LLM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-06T23:48:10Z",
-            "owner": "onejune2018",
-            "repo": "Awesome-Medical-Healthcare-Dataset-For-LLM",
-            "stars": 332
-          }
-        }
-      ],
-      "title": "Repositories"
-    },
-    {
-      "description": "If you find this repository useful in your research, please consider citing it.",
-      "items": [],
-      "title": "Citing"
-    },
-    {
-      "description": "This project is licensed under the terms of the MIT License.",
-      "items": [],
-      "title": "Licenses"
-    },
-    {
-      "description": "We have structured our repository by drawing inspiration from the substantial work of repositories such as LLM-Agent-Paper-List, CareGPT, and insights from RadLLM. We extend our sincere gratitude to their contributions.",
-      "items": [],
-      "title": "Acknowledgement"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:00:27.480Z",
+    "last_updated": "2026-08-19T12:12:01.669Z",
     "original_repository": "mingze-yuan/Awesome-LLM-Healthcare",
+    "original_repository_id": 713718413,
     "original_repository_sha": "36f9d0d5e1d5c698c87adf667d8cf14492761887",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Healthcare",
     "enhanced_repository_description": null,

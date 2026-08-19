@@ -159,9 +159,9 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 #### LLM Techniques
 
-* \[2023/06] **A Survey on Multimodal Large Language Models.** *Shukang Yin et al. arXiv.* \[[paper](https://arxiv.org/abs/2306.13549)] \[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,982 | 🐛 111 | 📅 2026-08-14]
-* \[2023/03] **A survey of large language models.** *Wayne Xin Zhao et al. arXiv.* \[[paper](https://arxiv.org/abs/2303.18223)] \[[code](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,205 | 🐛 30 | 🌐 Python | 📅 2025-03-11]
-* \[2023/09] **The Rise and Potential of Large Language Model Based Agents: A Survey.** *Zhiheng Xi et al. arXiv.* \[[paper](https://arxiv.org/abs/2309.07864)] \[[code](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,173 | 🐛 32 | 📅 2025-09-12]
+* \[2023/06] **A Survey on Multimodal Large Language Models.** *Shukang Yin et al. arXiv.* \[[paper](https://arxiv.org/abs/2306.13549)] \[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,983 | 🐛 111 | 📅 2026-08-14]
+* \[2023/03] **A survey of large language models.** *Wayne Xin Zhao et al. arXiv.* \[[paper](https://arxiv.org/abs/2303.18223)] \[[code](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,206 | 🐛 30 | 🌐 Python | 📅 2025-03-11]
+* \[2023/09] **The Rise and Potential of Large Language Model Based Agents: A Survey.** *Zhiheng Xi et al. arXiv.* \[[paper](https://arxiv.org/abs/2309.07864)] \[[code](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,174 | 🐛 32 | 📅 2025-09-12]
 * \[2023/07] **A Survey on Evaluation of Large Language Models.** *Yupeng Chang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.03109)] \[[code](https://github.com/MLGroupJLU/LLM-eval-survey) ⭐ 1,610 | 🐛 6 | 📅 2026-08-01]
 * \[2023/07] **Aligning Large Language Models with Human: A Survey.** *Yufei Wang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.12966)] \[[code](https://github.com/GaryYufei/AlignLLMHumanSurvey) ⭐ 742 | 🐛 0 | 📅 2023-09-11]
 * \[2023/08] **Instruction Tuning for Large Language Models: A Survey.** *Shengyu Zhang et al. arXiv.* \[[paper](https://arxiv.org/abs/2308.10792)] \[[code](https://github.com/xiaoya-li/Instruction-Tuning-Survey) ⭐ 232 | 🐛 1 | 📅 2025-08-10]
@@ -186,8 +186,8 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ### Repositories
 
-* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,271 | 🐛 437 | 📅 2025-07-31
-* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,744 | 🐛 27 | 📅 2026-05-10
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,271 | 🐛 436 | 📅 2025-07-31
+* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,746 | 🐛 27 | 📅 2026-05-10
 * [CareGPT](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived with curated references
 * [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) ⭐ 332 | 🐛 1 | 📅 2024-06-06
 
@@ -216,7 +216,7 @@ If you find this repository useful in your research, please consider citing it.
 
 ## Acknowledgement
 
-We have structured our repository by drawing inspiration from the substantial work of repositories such as [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List/tree/main) ⭐ 8,173 | 🐛 32 | 📅 2025-09-12, [CareGPT](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived, and insights from [RadLLM](https://arxiv.org/pdf/2307.13693.pdf). We extend our sincere gratitude to their contributions.
+We have structured our repository by drawing inspiration from the substantial work of repositories such as [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List/tree/main) ⭐ 8,174 | 🐛 32 | 📅 2025-09-12, [CareGPT](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived, and insights from [RadLLM](https://arxiv.org/pdf/2307.13693.pdf). We extend our sincere gratitude to their contributions.
 
 ***
 
