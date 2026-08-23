@@ -15,7 +15,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5735
+            "stars": 5737
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-04T05:56:23Z",
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4985
+            "stars": 4986
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2026-08-10T06:56:25Z",
             "owner": "OptimalScale",
             "repo": "LMFlow",
-            "stars": 8484
+            "stars": 8485
           }
         },
         {
@@ -890,7 +890,7 @@
                     "last_commit": "2026-08-21T16:19:20Z",
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 17986
+                    "stars": 17988
                   }
                 },
                 {
@@ -992,7 +992,7 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27274
+                "stars": 27275
               }
             },
             {
@@ -1007,7 +1007,7 @@
                 "last_commit": "2026-05-10T05:03:06Z",
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22747
+                "stars": 22749
               }
             },
             {
@@ -1050,7 +1050,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:55:03.027Z",
+    "last_updated": "2026-08-23T06:56:52.102Z",
     "original_repository": "mingze-yuan/Awesome-LLM-Healthcare",
     "original_repository_id": 713718413,
     "original_repository_sha": "36f9d0d5e1d5c698c87adf667d8cf14492761887",
