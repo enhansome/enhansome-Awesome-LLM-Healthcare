@@ -45,7 +45,7 @@
             "last_commit": "2023-09-21T01:07:13Z",
             "owner": "llSourcell",
             "repo": "Doctor-Dignity",
-            "stars": 3823
+            "stars": 3822
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-04-10T11:48:37Z",
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2206
+            "stars": 2207
           }
         },
         {
@@ -890,7 +890,7 @@
                     "last_commit": "2026-08-21T16:19:20Z",
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 17987
+                    "stars": 17988
                   }
                 },
                 {
@@ -905,7 +905,7 @@
                     "last_commit": "2025-03-11T09:51:42Z",
                     "owner": "RUCAIBox",
                     "repo": "LLMSurvey",
-                    "stars": 12204
+                    "stars": 12205
                   }
                 },
                 {
@@ -920,7 +920,7 @@
                     "last_commit": "2025-09-12T03:08:58Z",
                     "owner": "WooooDyy",
                     "repo": "LLM-Agent-Paper-List",
-                    "stars": 8179
+                    "stars": 8180
                   }
                 },
                 {
@@ -992,7 +992,7 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27276
+                "stars": 27279
               }
             },
             {
@@ -1050,7 +1050,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:15:35.033Z",
+    "last_updated": "2026-08-24T14:30:29.591Z",
     "original_repository": "mingze-yuan/Awesome-LLM-Healthcare",
     "original_repository_id": 713718413,
     "original_repository_sha": "36f9d0d5e1d5c698c87adf667d8cf14492761887",
