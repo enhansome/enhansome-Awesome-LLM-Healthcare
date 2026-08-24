@@ -15,7 +15,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5737
+            "stars": 5738
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-08-09T07:07:36Z",
             "owner": "CMKRG",
             "repo": "QiZhenGPT",
-            "stars": 775
+            "stars": 776
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2024-07-08T12:45:23Z",
             "owner": "chaoyi-wu",
             "repo": "PMC-LLaMA",
-            "stars": 679
+            "stars": 680
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2023-10-28T21:33:14Z",
             "owner": "FudanDISC",
             "repo": "DISC-MedLLM",
-            "stars": 565
+            "stars": 566
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2023-09-07T12:38:17Z",
             "owner": "kbressem",
             "repo": "medAlpaca",
-            "stars": 564
+            "stars": 565
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2023-12-26T08:44:33Z",
             "owner": "openmedlab",
             "repo": "PULSE",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2026-08-10T06:56:25Z",
             "owner": "OptimalScale",
             "repo": "LMFlow",
-            "stars": 8485
+            "stars": 8484
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-07-22T09:05:56Z",
             "owner": "PharMolix",
             "repo": "OpenBioMed",
-            "stars": 1102
+            "stars": 1103
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2024-05-27T02:02:24Z",
             "owner": "gersteinlab",
             "repo": "MedAgents",
-            "stars": 365
+            "stars": 366
           }
         },
         {
@@ -815,7 +815,7 @@
                 "last_commit": "2024-02-04T05:26:17Z",
                 "owner": "nlpyang",
                 "repo": "geval",
-                "stars": 431
+                "stars": 430
               }
             },
             {
@@ -890,7 +890,7 @@
                     "last_commit": "2026-08-21T16:19:20Z",
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 17988
+                    "stars": 17987
                   }
                 },
                 {
@@ -905,7 +905,7 @@
                     "last_commit": "2025-03-11T09:51:42Z",
                     "owner": "RUCAIBox",
                     "repo": "LLMSurvey",
-                    "stars": 12206
+                    "stars": 12204
                   }
                 },
                 {
@@ -920,7 +920,7 @@
                     "last_commit": "2025-09-12T03:08:58Z",
                     "owner": "WooooDyy",
                     "repo": "LLM-Agent-Paper-List",
-                    "stars": 8178
+                    "stars": 8179
                   }
                 },
                 {
@@ -992,7 +992,7 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27275
+                "stars": 27276
               }
             },
             {
@@ -1007,7 +1007,7 @@
                 "last_commit": "2026-05-10T05:03:06Z",
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22749
+                "stars": 22752
               }
             },
             {
@@ -1050,7 +1050,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:56:52.102Z",
+    "last_updated": "2026-08-24T07:15:35.033Z",
     "original_repository": "mingze-yuan/Awesome-LLM-Healthcare",
     "original_repository_id": 713718413,
     "original_repository_sha": "36f9d0d5e1d5c698c87adf667d8cf14492761887",
