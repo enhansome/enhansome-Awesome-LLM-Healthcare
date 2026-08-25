@@ -49,7 +49,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ## Specialized Medical LLMs
 
-* \[2023/06] **MedicalGPT: Training Medical GPT Model** *Ming Xu et al.* \[[code](https://github.com/shibing624/MedicalGPT) ⭐ 5,741 | 🐛 6 | 🌐 Python | 📅 2026-06-03]
+* \[2023/06] **MedicalGPT: Training Medical GPT Model** *Ming Xu et al.* \[[code](https://github.com/shibing624/MedicalGPT) ⭐ 5,742 | 🐛 6 | 🌐 Python | 📅 2026-06-03]
 * \[2023/04] **HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge** *Haochun Wang et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.06975)] \[[code](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) ⭐ 4,986 | 🐛 28 | 🌐 Python | 📅 2026-07-04]
 * \[2023/04] **Doctor Dignity** *Siraj Raval et al.* \[[code](https://github.com/llSourcell/Doctor-Dignity) ⭐ 3,822 | 🐛 22 | 🌐 Python | 📅 2023-09-21]
 * \[2023/03] **ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge** *Yunxiang Li et al. Cureus.* \[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10364849/)] \[[code](https://github.com/Kent0n-Li/ChatDoctor) ⭐ 3,631 | 🐛 49 | 🌐 Python | 📅 2024-05-17]
