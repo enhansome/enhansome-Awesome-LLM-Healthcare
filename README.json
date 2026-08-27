@@ -15,7 +15,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5745
+            "stars": 5751
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-09-21T01:07:13Z",
             "owner": "llSourcell",
             "repo": "Doctor-Dignity",
-            "stars": 3823
+            "stars": 3821
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-06-10T06:36:59Z",
             "owner": "pariskang",
             "repo": "CMLM-ZhongJing",
-            "stars": 516
+            "stars": 517
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2023-08-31T02:59:22Z",
             "owner": "michael-wzhu",
             "repo": "ShenNong-TCM-LLM",
-            "stars": 504
+            "stars": 505
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2025-07-28T08:53:22Z",
             "owner": "DUTIR-BioNLP",
             "repo": "Taiyi-LLM",
-            "stars": 168
+            "stars": 169
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2024-11-20T07:07:22Z",
             "owner": "WangRongsheng",
             "repo": "XrayGLM",
-            "stars": 1081
+            "stars": 1082
           }
         },
         {
@@ -815,7 +815,7 @@
                 "last_commit": "2024-02-04T05:26:17Z",
                 "owner": "nlpyang",
                 "repo": "geval",
-                "stars": 430
+                "stars": 431
               }
             },
             {
@@ -830,7 +830,7 @@
                 "last_commit": "2025-07-28T09:04:42Z",
                 "owner": "thu-coai",
                 "repo": "SafetyBench",
-                "stars": 296
+                "stars": 297
               }
             },
             {
@@ -887,10 +887,10 @@
                     "archived": false,
                     "id": 642642539,
                     "language": null,
-                    "last_commit": "2026-08-21T16:19:20Z",
+                    "last_commit": "2026-08-27T01:08:08Z",
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 17991
+                    "stars": 17989
                   }
                 },
                 {
@@ -905,7 +905,7 @@
                     "last_commit": "2025-03-11T09:51:42Z",
                     "owner": "RUCAIBox",
                     "repo": "LLMSurvey",
-                    "stars": 12207
+                    "stars": 12206
                   }
                 },
                 {
@@ -920,7 +920,7 @@
                     "last_commit": "2025-09-12T03:08:58Z",
                     "owner": "WooooDyy",
                     "repo": "LLM-Agent-Paper-List",
-                    "stars": 8181
+                    "stars": 8182
                   }
                 },
                 {
@@ -992,7 +992,7 @@
                 "last_commit": "2025-07-31T02:38:24Z",
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27282
+                "stars": 27293
               }
             },
             {
@@ -1007,7 +1007,7 @@
                 "last_commit": "2026-05-10T05:03:06Z",
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22752
+                "stars": 22751
               }
             },
             {
@@ -1050,9 +1050,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:03:48.578Z",
-    "original_repository": "mingze-yuan/Awesome-LLM-Healthcare",
-    "original_repository_id": 713718413,
+    "last_updated": "2026-08-27T11:24:01.687Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 713718413,
+      "language": null,
+      "last_commit": "2023-12-23T07:16:13Z",
+      "owner": "mingze-yuan",
+      "repo": "Awesome-LLM-Healthcare",
+      "stars": 270
+    },
     "original_repository_sha": "36f9d0d5e1d5c698c87adf667d8cf14492761887",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Healthcare",
     "enhanced_repository_description": null,
