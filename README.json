@@ -122,7 +122,7 @@
             "open_issues": 17,
             "owner": "epfLLM",
             "repo": "meditron",
-            "stars": 2208,
+            "stars": 2209,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -164,7 +164,7 @@
             "open_issues": 23,
             "owner": "MediaBrain-SJTU",
             "repo": "MING",
-            "stars": 1175,
+            "stars": 1176,
             "topics": [
               "consultation",
               "huggingface",
@@ -824,7 +824,7 @@
             "open_issues": 88,
             "owner": "OptimalScale",
             "repo": "LMFlow",
-            "stars": 8486,
+            "stars": 8485,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -1406,7 +1406,7 @@
                     "open_issues": 29,
                     "owner": "RUCAIBox",
                     "repo": "LLMSurvey",
-                    "stars": 12205,
+                    "stars": 12206,
                     "topics": [
                       "chain-of-thought",
                       "chatgpt",
@@ -1567,7 +1567,7 @@
                 "open_issues": 443,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27297,
+                "stars": 27300,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:02.608Z",
+    "last_updated": "2026-08-29T12:38:20.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
