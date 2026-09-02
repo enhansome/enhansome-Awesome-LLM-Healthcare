@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5770,
+            "stars": 5771,
             "topics": [
               "chatgpt",
               "dpo",
@@ -80,7 +80,7 @@
             "open_issues": 22,
             "owner": "llSourcell",
             "repo": "Doctor-Dignity",
-            "stars": 3821,
+            "stars": 3822,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -272,7 +272,7 @@
             "open_issues": 20,
             "owner": "xionghonglin",
             "repo": "DoctorGLM",
-            "stars": 835,
+            "stars": 834,
             "topics": [
               "chatglm-6b"
             ]
@@ -409,7 +409,7 @@
             "open_issues": 10,
             "owner": "pariskang",
             "repo": "CMLM-ZhongJing",
-            "stars": 519,
+            "stars": 520,
             "topics": [
               "chatbot",
               "chinese-medicine",
@@ -601,7 +601,7 @@
             "open_issues": 7,
             "owner": "Zlasejd",
             "repo": "HuangDI",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "ancient-books",
               "llm",
@@ -824,7 +824,7 @@
             "open_issues": 88,
             "owner": "OptimalScale",
             "repo": "LMFlow",
-            "stars": 8485,
+            "stars": 8486,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -874,7 +874,7 @@
             "open_issues": 38,
             "owner": "PharMolix",
             "repo": "OpenBioMed",
-            "stars": 1104,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1367,11 +1367,11 @@
                     "id": 642642539,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-08-27T01:08:08Z",
-                    "open_issues": 111,
+                    "last_commit": "2026-09-02T02:30:25Z",
+                    "open_issues": 110,
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 17994,
+                    "stars": 17995,
                     "topics": [
                       "chain-of-thought",
                       "in-context-learning",
@@ -1406,7 +1406,7 @@
                     "open_issues": 30,
                     "owner": "RUCAIBox",
                     "repo": "LLMSurvey",
-                    "stars": 12205,
+                    "stars": 12207,
                     "topics": [
                       "chain-of-thought",
                       "chatgpt",
@@ -1439,7 +1439,7 @@
                     "open_issues": 31,
                     "owner": "WooooDyy",
                     "repo": "LLM-Agent-Paper-List",
-                    "stars": 8185,
+                    "stars": 8197,
                     "topics": [
                       "agent",
                       "large-language-models",
@@ -1567,7 +1567,7 @@
                 "open_issues": 444,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27309,
+                "stars": 27312,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1588,7 +1588,7 @@
                 "open_issues": 30,
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22751,
+                "stars": 22755,
                 "topics": [
                   "awesome-lists",
                   "chatglm",
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:33:35.500Z",
+    "last_updated": "2026-09-02T11:10:21.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
