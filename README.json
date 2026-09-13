@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5799,
+            "stars": 5802,
             "topics": [
               "chatgpt",
               "dpo",
@@ -218,7 +218,7 @@
             "open_issues": 0,
             "owner": "WangRongsheng",
             "repo": "CareGPT",
-            "stars": 1002,
+            "stars": 1001,
             "topics": [
               "baichuan",
               "gpt",
@@ -965,7 +965,7 @@
             "open_issues": 23,
             "owner": "mbzuai-oryx",
             "repo": "XrayGPT",
-            "stars": 533,
+            "stars": 532,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1174,7 +1174,7 @@
             "open_issues": 0,
             "owner": "gersteinlab",
             "repo": "MedAgents",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "llm",
               "llm-agent",
@@ -1406,7 +1406,7 @@
                     "open_issues": 30,
                     "owner": "RUCAIBox",
                     "repo": "LLMSurvey",
-                    "stars": 12212,
+                    "stars": 12214,
                     "topics": [
                       "chain-of-thought",
                       "chatgpt",
@@ -1462,8 +1462,8 @@
                     "id": 661178361,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-05T01:22:46Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-09-13T02:09:22Z",
+                    "open_issues": 6,
                     "owner": "MLGroupJLU",
                     "repo": "LLM-eval-survey",
                     "stars": 1609,
@@ -1564,10 +1564,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 452,
+                "open_issues": 455,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27359,
+                "stars": 27363,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1585,10 +1585,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-10T05:03:06Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22758,
+                "stars": 22761,
                 "topics": [
                   "awesome-lists",
                   "chatglm",
@@ -1616,7 +1616,7 @@
                 "open_issues": 0,
                 "owner": "WangRongsheng",
                 "repo": "CareGPT",
-                "stars": 1002,
+                "stars": 1001,
                 "topics": [
                   "baichuan",
                   "gpt",
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T10:38:32.054Z",
+    "last_updated": "2026-09-13T11:41:57.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
