@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5818,
+            "stars": 5821,
             "topics": [
               "chatgpt",
               "dpo",
@@ -48,7 +48,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4994,
+            "stars": 4993,
             "topics": [
               "aidoctor",
               "bloom",
@@ -164,7 +164,7 @@
             "open_issues": 23,
             "owner": "MediaBrain-SJTU",
             "repo": "MING",
-            "stars": 1180,
+            "stars": 1179,
             "topics": [
               "consultation",
               "huggingface",
@@ -272,7 +272,7 @@
             "open_issues": 20,
             "owner": "xionghonglin",
             "repo": "DoctorGLM",
-            "stars": 833,
+            "stars": 832,
             "topics": [
               "chatglm-6b"
             ]
@@ -409,7 +409,7 @@
             "open_issues": 10,
             "owner": "pariskang",
             "repo": "CMLM-ZhongJing",
-            "stars": 525,
+            "stars": 527,
             "topics": [
               "chatbot",
               "chinese-medicine",
@@ -535,7 +535,7 @@
             "open_issues": 13,
             "owner": "SupritYoung",
             "repo": "Zhongjing",
-            "stars": 399,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -923,7 +923,7 @@
             "open_issues": 26,
             "owner": "taokz",
             "repo": "BiomedGPT",
-            "stars": 711,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1367,11 +1367,11 @@
                     "id": 642642539,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-04T01:37:13Z",
+                    "last_commit": "2026-09-18T03:09:18Z",
                     "open_issues": 112,
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 18024,
+                    "stars": 18027,
                     "topics": [
                       "chain-of-thought",
                       "in-context-learning",
@@ -1564,10 +1564,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 458,
+                "open_issues": 459,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27397,
+                "stars": 27404,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1585,10 +1585,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-10T05:03:06Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22764,
+                "stars": 22767,
                 "topics": [
                   "awesome-lists",
                   "chatglm",
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:32:51.846Z",
+    "last_updated": "2026-09-18T11:05:32.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
