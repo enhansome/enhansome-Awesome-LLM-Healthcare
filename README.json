@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5824,
+            "stars": 5827,
             "topics": [
               "chatgpt",
               "dpo",
@@ -48,7 +48,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4992,
+            "stars": 4993,
             "topics": [
               "aidoctor",
               "bloom",
@@ -143,7 +143,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1328,
+            "stars": 1329,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -164,7 +164,7 @@
             "open_issues": 23,
             "owner": "MediaBrain-SJTU",
             "repo": "MING",
-            "stars": 1180,
+            "stars": 1181,
             "topics": [
               "consultation",
               "huggingface",
@@ -438,7 +438,7 @@
             "open_issues": 7,
             "owner": "michael-wzhu",
             "repo": "ShenNong-TCM-LLM",
-            "stars": 509,
+            "stars": 510,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -514,7 +514,7 @@
             "open_issues": 32,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT-II",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -556,7 +556,7 @@
             "open_issues": 9,
             "owner": "2020MEAI",
             "repo": "TCMLLM",
-            "stars": 269,
+            "stars": 270,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -944,7 +944,7 @@
             "open_issues": 23,
             "owner": "chaoyi-wu",
             "repo": "RadFM",
-            "stars": 567,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1371,7 +1371,7 @@
                     "open_issues": 112,
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 18029,
+                    "stars": 18031,
                     "topics": [
                       "chain-of-thought",
                       "in-context-learning",
@@ -1463,7 +1463,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-09-13T02:09:22Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "MLGroupJLU",
                     "repo": "LLM-eval-survey",
                     "stars": 1611,
@@ -1564,10 +1564,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 461,
+                "open_issues": 462,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27409,
+                "stars": 27411,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1588,7 +1588,7 @@
                 "open_issues": 32,
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22766,
+                "stars": 22769,
                 "topics": [
                   "awesome-lists",
                   "chatglm",
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:13:56.828Z",
+    "last_updated": "2026-09-21T12:40:24.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
