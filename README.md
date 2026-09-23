@@ -49,27 +49,27 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ## Specialized Medical LLMs
 
-* \[2023/06] **MedicalGPT: Training Medical GPT Model** *Ming Xu et al.* \[[code](https://github.com/shibing624/MedicalGPT) ⭐ 5,828 | 🐛 6 | 🌐 Python | 📅 2026-09-15]
+* \[2023/06] **MedicalGPT: Training Medical GPT Model** *Ming Xu et al.* \[[code](https://github.com/shibing624/MedicalGPT) ⭐ 5,838 | 🐛 6 | 🌐 Python | 📅 2026-09-15]
 * \[2023/04] **HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge** *Haochun Wang et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.06975)] \[[code](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) ⭐ 4,993 | 🐛 28 | 🌐 Python | 📅 2026-07-04]
-* \[2023/04] **Doctor Dignity** *Siraj Raval et al.* \[[code](https://github.com/llSourcell/Doctor-Dignity) ⭐ 3,818 | 🐛 22 | 🌐 Python | 📅 2023-09-21]
+* \[2023/04] **Doctor Dignity** *Siraj Raval et al.* \[[code](https://github.com/llSourcell/Doctor-Dignity) ⭐ 3,819 | 🐛 22 | 🌐 Python | 📅 2023-09-21]
 * \[2023/03] **ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge** *Yunxiang Li et al. Cureus.* \[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10364849/)] \[[code](https://github.com/Kent0n-Li/ChatDoctor) ⭐ 3,627 | 🐛 49 | 🌐 Python | 📅 2024-05-17]
 * \[2023/11] **MEDITRON-70B: Scaling Medical Pretraining for Large Language Models** *Zeming Chen et al. arXiv.* \[[paper](https://arxiv.org/abs/2311.16079)]\[[code](https://github.com/epfLLM/meditron) ⭐ 2,209 | 🐛 17 | 🌐 Python | 📅 2024-04-10]
 * \[2023/05] **HuatuoGPT, towards Taming Language Model to Be a Doctor** *Hongbo Zhang et al. arXiv.* \[[paper](https://arxiv.org/abs/2305.15075)] \[[code](https://github.com/FreedomIntelligence/HuatuoGPT) ⭐ 1,329 | 🐛 3 | 🌐 Python | 📅 2024-12-16]
-* \[2023/07] **MING: A Chinese Medical Consultation Large Model** *Yusheng Liao et al.* \[[code](https://github.com/MediaBrain-SJTU/MING) ⭐ 1,181 | 🐛 23 | 🌐 Python | 📅 2025-05-23]
-* \[2023/03] **ChatGLM-Med** *Haochun Wang et al.* \[[code](https://github.com/SCIR-HI/Med-ChatGLM) ⭐ 1,039 | 🐛 31 | 🌐 Python | 📅 2023-05-19]
+* \[2023/07] **MING: A Chinese Medical Consultation Large Model** *Yusheng Liao et al.* \[[code](https://github.com/MediaBrain-SJTU/MING) ⭐ 1,182 | 🐛 23 | 🌐 Python | 📅 2025-05-23]
+* \[2023/03] **ChatGLM-Med** *Haochun Wang et al.* \[[code](https://github.com/SCIR-HI/Med-ChatGLM) ⭐ 1,040 | 🐛 31 | 🌐 Python | 📅 2023-05-19]
 * \[2023/08] **CareGPT: Medical LLM, Open Source Driven for a Healthy Future** *Rongsheng Wang et al.* \[[code](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived]
-* \[2023/04] **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT** *Yirong Chen et al. arXiv.* \[[paper](https://arxiv.org/abs/2310.15896)] \[[code](https://github.com/scutcyr/BianQue) ⭐ 891 | 🐛 22 | 🌐 Python | 📅 2023-10-25]
+* \[2023/04] **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT** *Yirong Chen et al. arXiv.* \[[paper](https://arxiv.org/abs/2310.15896)] \[[code](https://github.com/scutcyr/BianQue) ⭐ 892 | 🐛 22 | 🌐 Python | 📅 2023-10-25]
 * \[2023/04] **DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task** *Honglin Xiong et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.01097)] \[[code](https://github.com/xionghonglin/DoctorGLM) ⭐ 832 | 🐛 20 | 🌐 Python | 📅 2023-10-19]
-* \[2023/05] **QiZhenGPT: An Open Source Chinese Medical Large Language Model** *Yao Chang et al.* \[[code](https://github.com/CMKRG/QiZhenGPT) ⭐ 778 | 🐛 8 | 🌐 Python | 📅 2024-08-09]
+* \[2023/05] **QiZhenGPT: An Open Source Chinese Medical Large Language Model** *Yao Chang et al.* \[[code](https://github.com/CMKRG/QiZhenGPT) ⭐ 779 | 🐛 8 | 🌐 Python | 📅 2024-08-09]
 * \[2023/04] **PMC-LLaMA: Towards Building Open-source Language Models for Medicine** *Chaoyi Wu et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.14454)] \[[code](https://github.com/chaoyi-wu/PMC-LLaMA) ⭐ 680 | 🐛 26 | 🌐 Python | 📅 2024-07-08]
-* \[2023/04] **ChatMed: A Chinese Medical Large Language Model** *Wei Zhu et al.* \[[code](https://github.com/michael-wzhu/ChatMed) ⭐ 629 | 🐛 9 | 🌐 Python | 📅 2023-07-16]
+* \[2023/04] **ChatMed: A Chinese Medical Large Language Model** *Wei Zhu et al.* \[[code](https://github.com/michael-wzhu/ChatMed) ⭐ 630 | 🐛 9 | 🌐 Python | 📅 2023-07-16]
 * \[2023/08] **DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation** *Zhijie Bao et al. arXiv.* \[[paper](https://arxiv.org/abs/2308.14346)] \[[code](https://github.com/FudanDISC/DISC-MedLLM) ⭐ 566 | 🐛 16 | 🌐 Python | 📅 2023-10-28]
 * \[2023/04] **MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data** *Tianyu Han et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.08247)] \[[code](https://github.com/kbressem/medAlpaca) ⭐ 565 | 🐛 14 | 🌐 Python | 📅 2023-09-07]
 * \[2023/05] **CMLM-ZhongJing: Large Language Model is Good Story Listener** *Yanlan Kang et al.* \[[code](https://github.com/pariskang/CMLM-ZhongJing) ⭐ 527 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-06-10]
 * \[2023/06] **ShenNong-TCM: A Traditional Chinese Medicine Large Language Model** *Wei Zhu et al.* \[[code](https://github.com/michael-wzhu/ShenNong-TCM-LLM) ⭐ 510 | 🐛 7 | 🌐 Python | 📅 2023-08-31]
 * \[2023/06] **PULSE** *OpenMedLab*. \[[code](https://github.com/openmedlab/PULSE) ⭐ 499 | 🐛 14 | 🌐 Python | 📅 2023-12-26]
-* \[2023/06] **Sunsimiao: Chinese Medicine LLM** *Xin Yan et al.* \[[code](https://github.com/thomas-yanxin/Sunsimiao) ⭐ 470 | 🐛 6 | 🌐 Python | 📅 2024-09-13]
-* \[2023/11] **HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs** *Junying Chen et al. arXiv.* \[[paper](https://arxiv.org/abs/2311.09774)]\[[code](https://github.com/FreedomIntelligence/HuatuoGPT-II) ⭐ 417 | 🐛 32 | 🌐 Python | 📅 2024-08-30]
+* \[2023/06] **Sunsimiao: Chinese Medicine LLM** *Xin Yan et al.* \[[code](https://github.com/thomas-yanxin/Sunsimiao) ⭐ 471 | 🐛 6 | 🌐 Python | 📅 2024-09-13]
+* \[2023/11] **HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs** *Junying Chen et al. arXiv.* \[[paper](https://arxiv.org/abs/2311.09774)]\[[code](https://github.com/FreedomIntelligence/HuatuoGPT-II) ⭐ 418 | 🐛 32 | 🌐 Python | 📅 2024-08-30]
 * \[2023/08] **Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue** *Songhua Yang et al. arXiv.* \[[paper](https://arxiv.org/abs/2308.03549)] \[[code](https://github.com/SupritYoung/Zhongjing) ⭐ 400 | 🐛 13 | 🌐 Python | 📅 2023-12-12]
 * \[2023/06] **TCMLLM** *Xuezhong Zhou et al.* \[[code](https://github.com/2020MEAI/TCMLLM) ⭐ 270 | 🐛 9 | 🌐 Python | 📅 2025-05-27]
 * \[2023/11] **Taiyi: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks** *Ling Luo et al. arXiv.* \[[paper](https://arxiv.org/abs/2311.11608)]\[[code](https://github.com/DUTIR-BioNLP/Taiyi-LLM) ⭐ 169 | 🐛 0 | 🌐 Python | 📅 2025-07-28]
@@ -107,7 +107,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 * \[2023/04] **Visual Med-Alpaca: A Parameter-Efficient Biomedical LLM with Visual Capabilities** *Chang Shu et al.* \[[blog](https://cambridgeltl.github.io/visual-med-alpaca/)] \[[code](https://github.com/cambridgeltl/visual-med-alpaca) ⭐ 393 | 🐛 9 | 🌐 Python | 📅 2024-03-11]
 * \[2023/05] **PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering** *Xiaoman Zhang et al. arXiv.* \[[paper](https://arxiv.org/abs/2305.10415)] \[[code](https://github.com/xiaoman-zhang/PMC-VQA) ⭐ 238 | 🐛 16 | 🌐 Python | 📅 2024-12-06]
 * \[2023/06] **XrayPULSE** *OpenMedLab.* \[[code](https://github.com/openmedlab/XrayPULSE) ⭐ 178 | 🐛 5 | 🌐 Python | 📅 2023-08-23]
-* \[2023/04] **SkinGPT-4: An Interactive Dermatology Diagnostic System with Visual Large Language Model** *Juexiao Zhou et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.10691)] \[[code](https://github.com/JoshuaChou2018/SkinGPT-4) ⭐ 176 | 🐛 5 | 🌐 Python | 📅 2024-07-13]
+* \[2023/04] **SkinGPT-4: An Interactive Dermatology Diagnostic System with Visual Large Language Model** *Juexiao Zhou et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.10691)] \[[code](https://github.com/JoshuaChou2018/SkinGPT-4) ⭐ 177 | 🐛 5 | 🌐 Python | 📅 2024-07-13]
 * \[2023/05] **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology** *Yuxuan Sun et al. arXiv.* \[[paper](https://arxiv.org/abs/2305.15072)] \[[code](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology) ⭐ 137 | 🐛 6 | 🌐 Python | 📅 2024-04-11]
 * \[2023/10] **Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare** *Junling Liu et al. arXiv.* \[[paper](https://arxiv.org/abs/2310.17956)] \[[code](https://github.com/williamliujl/Qilin-Med-VL) ⭐ 67 | 🐛 7 | 🌐 Python | 📅 2023-12-01]
 * \[2023/12] **A Foundational Multimodal Vision Language AI Assistant for Human Pathology** *Ming Y. Liu et al. arXiv,* \[[paper](https://export.arxiv.org/abs/2312.07814)]
@@ -159,11 +159,11 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 #### LLM Techniques
 
-* \[2023/06] **A Survey on Multimodal Large Language Models.** *Shukang Yin et al. arXiv.* \[[paper](https://arxiv.org/abs/2306.13549)] \[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,031 | 🐛 113 | 📅 2026-09-18]
-* \[2023/03] **A survey of large language models.** *Wayne Xin Zhao et al. arXiv.* \[[paper](https://arxiv.org/abs/2303.18223)] \[[code](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,218 | 🐛 30 | 🌐 Python | 📅 2025-03-11]
-* \[2023/09] **The Rise and Potential of Large Language Model Based Agents: A Survey.** *Zhiheng Xi et al. arXiv.* \[[paper](https://arxiv.org/abs/2309.07864)] \[[code](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,219 | 🐛 32 | 📅 2025-09-12]
-* \[2023/07] **A Survey on Evaluation of Large Language Models.** *Yupeng Chang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.03109)] \[[code](https://github.com/MLGroupJLU/LLM-eval-survey) ⭐ 1,611 | 🐛 7 | 📅 2026-09-13]
-* \[2023/07] **Aligning Large Language Models with Human: A Survey.** *Yufei Wang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.12966)] \[[code](https://github.com/GaryYufei/AlignLLMHumanSurvey) ⭐ 738 | 🐛 0 | 📅 2026-09-08]
+* \[2023/06] **A Survey on Multimodal Large Language Models.** *Shukang Yin et al. arXiv.* \[[paper](https://arxiv.org/abs/2306.13549)] \[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,035 | 🐛 113 | 📅 2026-09-18]
+* \[2023/03] **A survey of large language models.** *Wayne Xin Zhao et al. arXiv.* \[[paper](https://arxiv.org/abs/2303.18223)] \[[code](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,219 | 🐛 30 | 🌐 Python | 📅 2025-03-11]
+* \[2023/09] **The Rise and Potential of Large Language Model Based Agents: A Survey.** *Zhiheng Xi et al. arXiv.* \[[paper](https://arxiv.org/abs/2309.07864)] \[[code](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,220 | 🐛 32 | 📅 2025-09-12]
+* \[2023/07] **A Survey on Evaluation of Large Language Models.** *Yupeng Chang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.03109)] \[[code](https://github.com/MLGroupJLU/LLM-eval-survey) ⭐ 1,612 | 🐛 8 | 📅 2026-09-13]
+* \[2023/07] **Aligning Large Language Models with Human: A Survey.** *Yufei Wang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.12966)] \[[code](https://github.com/GaryYufei/AlignLLMHumanSurvey) ⭐ 737 | 🐛 0 | 📅 2026-09-08]
 * \[2023/08] **Instruction Tuning for Large Language Models: A Survey.** *Shengyu Zhang et al. arXiv.* \[[paper](https://arxiv.org/abs/2308.10792)] \[[code](https://github.com/xiaoya-li/Instruction-Tuning-Survey) ⭐ 232 | 🐛 1 | 📅 2025-08-10]
 * \[2023/04] **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond.** *Jingfeng Yang et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.13712)]
 * \[2023/03] **Language Model Behavior: A Comprehensive Survey.** *Tyler A. Chang, Benjamin K. Bergen. arXiv.* \[[paper](https://arxiv.org/abs/2303.11504)]
@@ -186,8 +186,8 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ### Repositories
 
-* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,421 | 🐛 465 | 📅 2025-07-31
-* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,771 | 🐛 33 | 📅 2026-05-10
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,423 | 🐛 466 | 📅 2025-07-31
+* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,774 | 🐛 33 | 📅 2026-05-10
 * [CareGPT](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived with curated references
 * [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) ⭐ 333 | 🐛 1 | 📅 2024-06-06
 
@@ -216,8 +216,8 @@ If you find this repository useful in your research, please consider citing it.
 
 ## Acknowledgement
 
-We have structured our repository by drawing inspiration from the substantial work of repositories such as [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List/tree/main) ⭐ 8,219 | 🐛 32 | 📅 2025-09-12, [CareGPT](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived, and insights from [RadLLM](https://arxiv.org/pdf/2307.13693.pdf). We extend our sincere gratitude to their contributions.
+We have structured our repository by drawing inspiration from the substantial work of repositories such as [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List/tree/main) ⭐ 8,220 | 🐛 32 | 📅 2025-09-12, [CareGPT](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived, and insights from [RadLLM](https://arxiv.org/pdf/2307.13693.pdf). We extend our sincere gratitude to their contributions.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
