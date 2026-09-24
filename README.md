@@ -60,7 +60,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 * \[2023/08] **CareGPT: Medical LLM, Open Source Driven for a Healthy Future** *Rongsheng Wang et al.* \[[code](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived]
 * \[2023/04] **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT** *Yirong Chen et al. arXiv.* \[[paper](https://arxiv.org/abs/2310.15896)] \[[code](https://github.com/scutcyr/BianQue) ⭐ 892 | 🐛 22 | 🌐 Python | 📅 2023-10-25]
 * \[2023/04] **DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task** *Honglin Xiong et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.01097)] \[[code](https://github.com/xionghonglin/DoctorGLM) ⭐ 832 | 🐛 20 | 🌐 Python | 📅 2023-10-19]
-* \[2023/05] **QiZhenGPT: An Open Source Chinese Medical Large Language Model** *Yao Chang et al.* \[[code](https://github.com/CMKRG/QiZhenGPT) ⭐ 779 | 🐛 8 | 🌐 Python | 📅 2024-08-09]
+* \[2023/05] **QiZhenGPT: An Open Source Chinese Medical Large Language Model** *Yao Chang et al.* \[[code](https://github.com/CMKRG/QiZhenGPT) ⭐ 780 | 🐛 8 | 🌐 Python | 📅 2024-08-09]
 * \[2023/04] **PMC-LLaMA: Towards Building Open-source Language Models for Medicine** *Chaoyi Wu et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.14454)] \[[code](https://github.com/chaoyi-wu/PMC-LLaMA) ⭐ 680 | 🐛 26 | 🌐 Python | 📅 2024-07-08]
 * \[2023/04] **ChatMed: A Chinese Medical Large Language Model** *Wei Zhu et al.* \[[code](https://github.com/michael-wzhu/ChatMed) ⭐ 630 | 🐛 9 | 🌐 Python | 📅 2023-07-16]
 * \[2023/08] **DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation** *Zhijie Bao et al. arXiv.* \[[paper](https://arxiv.org/abs/2308.14346)] \[[code](https://github.com/FudanDISC/DISC-MedLLM) ⭐ 566 | 🐛 16 | 🌐 Python | 📅 2023-10-28]
@@ -159,7 +159,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 #### LLM Techniques
 
-* \[2023/06] **A Survey on Multimodal Large Language Models.** *Shukang Yin et al. arXiv.* \[[paper](https://arxiv.org/abs/2306.13549)] \[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,035 | 🐛 113 | 📅 2026-09-18]
+* \[2023/06] **A Survey on Multimodal Large Language Models.** *Shukang Yin et al. arXiv.* \[[paper](https://arxiv.org/abs/2306.13549)] \[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,036 | 🐛 114 | 📅 2026-09-18]
 * \[2023/03] **A survey of large language models.** *Wayne Xin Zhao et al. arXiv.* \[[paper](https://arxiv.org/abs/2303.18223)] \[[code](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,219 | 🐛 30 | 🌐 Python | 📅 2025-03-11]
 * \[2023/09] **The Rise and Potential of Large Language Model Based Agents: A Survey.** *Zhiheng Xi et al. arXiv.* \[[paper](https://arxiv.org/abs/2309.07864)] \[[code](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,220 | 🐛 32 | 📅 2025-09-12]
 * \[2023/07] **A Survey on Evaluation of Large Language Models.** *Yupeng Chang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.03109)] \[[code](https://github.com/MLGroupJLU/LLM-eval-survey) ⭐ 1,612 | 🐛 8 | 📅 2026-09-13]
@@ -187,7 +187,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 ### Repositories
 
 * [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,423 | 🐛 466 | 📅 2025-07-31
-* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,774 | 🐛 33 | 📅 2026-05-10
+* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,772 | 🐛 33 | 📅 2026-05-10
 * [CareGPT](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived with curated references
 * [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) ⭐ 333 | 🐛 1 | 📅 2024-06-06
 
@@ -220,4 +220,4 @@ We have structured our repository by drawing inspiration from the substantial wo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

@@ -295,7 +295,7 @@
             "open_issues": 8,
             "owner": "CMKRG",
             "repo": "QiZhenGPT",
-            "stars": 779,
+            "stars": 780,
             "topics": [
               "alpaca",
               "chatgpt",
@@ -1368,10 +1368,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-09-18T03:09:18Z",
-                    "open_issues": 113,
+                    "open_issues": 114,
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 18035,
+                    "stars": 18036,
                     "topics": [
                       "chain-of-thought",
                       "in-context-learning",
@@ -1588,7 +1588,7 @@
                 "open_issues": 33,
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22774,
+                "stars": 22772,
                 "topics": [
                   "awesome-lists",
                   "chatglm",
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T11:25:16.314Z",
+    "last_updated": "2026-09-24T11:37:20.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
