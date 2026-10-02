@@ -143,7 +143,7 @@
             "open_issues": 3,
             "owner": "FreedomIntelligence",
             "repo": "HuatuoGPT",
-            "stars": 1331,
+            "stars": 1332,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -965,7 +965,7 @@
             "open_issues": 23,
             "owner": "mbzuai-oryx",
             "repo": "XrayGPT",
-            "stars": 532,
+            "stars": 531,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1272,7 +1272,7 @@
                 "open_issues": 9,
                 "owner": "nlpyang",
                 "repo": "geval",
-                "stars": 429,
+                "stars": 428,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1293,7 +1293,7 @@
                 "open_issues": 2,
                 "owner": "thu-coai",
                 "repo": "SafetyBench",
-                "stars": 298,
+                "stars": 299,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1368,7 +1368,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-10-01T02:35:51Z",
-                    "open_issues": 114,
+                    "open_issues": 115,
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
                     "stars": 18043,
@@ -1436,7 +1436,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2025-09-12T03:08:58Z",
-                    "open_issues": 32,
+                    "open_issues": 33,
                     "owner": "WooooDyy",
                     "repo": "LLM-Agent-Paper-List",
                     "stars": 8222,
@@ -1466,7 +1466,7 @@
                     "open_issues": 8,
                     "owner": "MLGroupJLU",
                     "repo": "LLM-eval-survey",
-                    "stars": 1611,
+                    "stars": 1612,
                     "topics": [
                       "benchmark",
                       "evaluation",
@@ -1564,10 +1564,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 468,
+                "open_issues": 469,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27437,
+                "stars": 27436,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:02:50.284Z",
+    "last_updated": "2026-10-02T12:23:14.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
