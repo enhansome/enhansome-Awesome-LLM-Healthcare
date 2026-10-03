@@ -159,11 +159,11 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 #### LLM Techniques
 
-* \[2023/06] **A Survey on Multimodal Large Language Models.** *Shukang Yin et al. arXiv.* \[[paper](https://arxiv.org/abs/2306.13549)] \[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,042 | 🐛 116 | 📅 2026-10-01]
+* \[2023/06] **A Survey on Multimodal Large Language Models.** *Shukang Yin et al. arXiv.* \[[paper](https://arxiv.org/abs/2306.13549)] \[[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,043 | 🐛 116 | 📅 2026-10-01]
 * \[2023/03] **A survey of large language models.** *Wayne Xin Zhao et al. arXiv.* \[[paper](https://arxiv.org/abs/2303.18223)] \[[code](https://github.com/RUCAIBox/LLMSurvey) ⭐ 12,223 | 🐛 30 | 🌐 Python | 📅 2025-03-11]
 * \[2023/09] **The Rise and Potential of Large Language Model Based Agents: A Survey.** *Zhiheng Xi et al. arXiv.* \[[paper](https://arxiv.org/abs/2309.07864)] \[[code](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,222 | 🐛 33 | 📅 2025-09-12]
 * \[2023/07] **A Survey on Evaluation of Large Language Models.** *Yupeng Chang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.03109)] \[[code](https://github.com/MLGroupJLU/LLM-eval-survey) ⭐ 1,612 | 🐛 8 | 📅 2026-09-13]
-* \[2023/07] **Aligning Large Language Models with Human: A Survey.** *Yufei Wang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.12966)] \[[code](https://github.com/GaryYufei/AlignLLMHumanSurvey) ⭐ 738 | 🐛 1 | 📅 2026-09-08]
+* \[2023/07] **Aligning Large Language Models with Human: A Survey.** *Yufei Wang et al. arXiv.* \[[paper](https://arxiv.org/abs/2307.12966)] \[[code](https://github.com/GaryYufei/AlignLLMHumanSurvey) ⭐ 738 | 🐛 2 | 📅 2026-09-08]
 * \[2023/08] **Instruction Tuning for Large Language Models: A Survey.** *Shengyu Zhang et al. arXiv.* \[[paper](https://arxiv.org/abs/2308.10792)] \[[code](https://github.com/xiaoya-li/Instruction-Tuning-Survey) ⭐ 232 | 🐛 1 | 📅 2025-08-10]
 * \[2023/04] **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond.** *Jingfeng Yang et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.13712)]
 * \[2023/03] **Language Model Behavior: A Comprehensive Survey.** *Tyler A. Chang, Benjamin K. Bergen. arXiv.* \[[paper](https://arxiv.org/abs/2303.11504)]
@@ -186,8 +186,8 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ### Repositories
 
-* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,433 | 🐛 470 | 📅 2025-07-31
-* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,774 | 🐛 33 | 📅 2026-05-10
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,435 | 🐛 471 | 📅 2025-07-31
+* [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,772 | 🐛 33 | 📅 2026-05-10
 * [CareGPT](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived with curated references
 * [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) ⭐ 334 | 🐛 1 | 📅 2024-06-06
 

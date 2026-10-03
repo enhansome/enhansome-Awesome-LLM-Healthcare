@@ -1371,7 +1371,7 @@
                     "open_issues": 116,
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 18042,
+                    "stars": 18043,
                     "topics": [
                       "chain-of-thought",
                       "in-context-learning",
@@ -1491,7 +1491,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-09-08T07:59:06Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "GaryYufei",
                     "repo": "AlignLLMHumanSurvey",
                     "stars": 738,
@@ -1564,10 +1564,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 470,
+                "open_issues": 471,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27433,
+                "stars": 27435,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1588,7 +1588,7 @@
                 "open_issues": 33,
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22774,
+                "stars": 22772,
                 "topics": [
                   "awesome-lists",
                   "chatglm",
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:19.056Z",
+    "last_updated": "2026-10-03T11:33:37.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
