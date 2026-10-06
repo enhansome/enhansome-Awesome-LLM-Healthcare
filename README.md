@@ -52,14 +52,14 @@ Please note: This repository's scope is centered on the **technological evolutio
 * \[2023/06] **MedicalGPT: Training Medical GPT Model** *Ming Xu et al.* \[[code](https://github.com/shibing624/MedicalGPT) ⭐ 5,847 | 🐛 6 | 🌐 Python | 📅 2026-09-15]
 * \[2023/04] **HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge** *Haochun Wang et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.06975)] \[[code](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) ⭐ 4,997 | 🐛 28 | 🌐 Python | 📅 2026-07-04]
 * \[2023/04] **Doctor Dignity** *Siraj Raval et al.* \[[code](https://github.com/llSourcell/Doctor-Dignity) ⭐ 3,815 | 🐛 23 | 🌐 Python | 📅 2023-09-21]
-* \[2023/03] **ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge** *Yunxiang Li et al. Cureus.* \[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10364849/)] \[[code](https://github.com/Kent0n-Li/ChatDoctor) ⭐ 3,625 | 🐛 49 | 🌐 Python | 📅 2024-05-17]
+* \[2023/03] **ChatDoctor: A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge** *Yunxiang Li et al. Cureus.* \[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10364849/)] \[[code](https://github.com/Kent0n-Li/ChatDoctor) ⭐ 3,624 | 🐛 49 | 🌐 Python | 📅 2024-05-17]
 * \[2023/11] **MEDITRON-70B: Scaling Medical Pretraining for Large Language Models** *Zeming Chen et al. arXiv.* \[[paper](https://arxiv.org/abs/2311.16079)]\[[code](https://github.com/epfLLM/meditron) ⭐ 2,211 | 🐛 17 | 🌐 Python | 📅 2024-04-10]
 * \[2023/05] **HuatuoGPT, towards Taming Language Model to Be a Doctor** *Hongbo Zhang et al. arXiv.* \[[paper](https://arxiv.org/abs/2305.15075)] \[[code](https://github.com/FreedomIntelligence/HuatuoGPT) ⭐ 1,332 | 🐛 3 | 🌐 Python | 📅 2024-12-16]
 * \[2023/07] **MING: A Chinese Medical Consultation Large Model** *Yusheng Liao et al.* \[[code](https://github.com/MediaBrain-SJTU/MING) ⭐ 1,183 | 🐛 23 | 🌐 Python | 📅 2025-05-23]
 * \[2023/03] **ChatGLM-Med** *Haochun Wang et al.* \[[code](https://github.com/SCIR-HI/Med-ChatGLM) ⭐ 1,042 | 🐛 31 | 🌐 Python | 📅 2023-05-19]
 * \[2023/08] **CareGPT: Medical LLM, Open Source Driven for a Healthy Future** *Rongsheng Wang et al.* \[[code](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived]
 * \[2023/04] **BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT** *Yirong Chen et al. arXiv.* \[[paper](https://arxiv.org/abs/2310.15896)] \[[code](https://github.com/scutcyr/BianQue) ⭐ 892 | 🐛 22 | 🌐 Python | 📅 2023-10-25]
-* \[2023/04] **DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task** *Honglin Xiong et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.01097)] \[[code](https://github.com/xionghonglin/DoctorGLM) ⭐ 832 | 🐛 20 | 🌐 Python | 📅 2023-10-19]
+* \[2023/04] **DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task** *Honglin Xiong et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.01097)] \[[code](https://github.com/xionghonglin/DoctorGLM) ⭐ 831 | 🐛 20 | 🌐 Python | 📅 2023-10-19]
 * \[2023/05] **QiZhenGPT: An Open Source Chinese Medical Large Language Model** *Yao Chang et al.* \[[code](https://github.com/CMKRG/QiZhenGPT) ⭐ 780 | 🐛 8 | 🌐 Python | 📅 2024-08-09]
 * \[2023/04] **PMC-LLaMA: Towards Building Open-source Language Models for Medicine** *Chaoyi Wu et al. arXiv.* \[[paper](https://arxiv.org/abs/2304.14454)] \[[code](https://github.com/chaoyi-wu/PMC-LLaMA) ⭐ 680 | 🐛 26 | 🌐 Python | 📅 2024-07-08]
 * \[2023/04] **ChatMed: A Chinese Medical Large Language Model** *Wei Zhu et al.* \[[code](https://github.com/michael-wzhu/ChatMed) ⭐ 631 | 🐛 9 | 🌐 Python | 📅 2023-07-16]
@@ -186,7 +186,7 @@ Please note: This repository's scope is centered on the **technological evolutio
 
 ### Repositories
 
-* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,440 | 🐛 472 | 📅 2025-07-31
+* [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,441 | 🐛 472 | 📅 2025-07-31
 * [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) ⭐ 22,770 | 🐛 33 | 📅 2026-05-10
 * [CareGPT](https://github.com/WangRongsheng/CareGPT) ⚠️ Archived with curated references
 * [Awesome-Medical-Healthcare-Dataset-For-LLM](https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM) ⭐ 333 | 🐛 1 | 📅 2024-06-06

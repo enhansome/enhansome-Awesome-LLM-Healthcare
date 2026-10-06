@@ -101,7 +101,7 @@
             "open_issues": 49,
             "owner": "Kent0n-Li",
             "repo": "ChatDoctor",
-            "stars": 3625,
+            "stars": 3624,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -272,7 +272,7 @@
             "open_issues": 20,
             "owner": "xionghonglin",
             "repo": "DoctorGLM",
-            "stars": 832,
+            "stars": 831,
             "topics": [
               "chatglm-6b"
             ]
@@ -1567,7 +1567,7 @@
                 "open_issues": 472,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27440,
+                "stars": 27441,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:02.247Z",
+    "last_updated": "2026-10-06T13:13:26.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
