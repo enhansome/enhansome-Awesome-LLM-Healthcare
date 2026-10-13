@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-15T13:46:54Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5858,
+            "stars": 5861,
             "topics": [
               "chatgpt",
               "dpo",
@@ -80,7 +80,7 @@
             "open_issues": 23,
             "owner": "llSourcell",
             "repo": "Doctor-Dignity",
-            "stars": 3816,
+            "stars": 3814,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -101,7 +101,7 @@
             "open_issues": 49,
             "owner": "Kent0n-Li",
             "repo": "ChatDoctor",
-            "stars": 3622,
+            "stars": 3623,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -164,7 +164,7 @@
             "open_issues": 23,
             "owner": "MediaBrain-SJTU",
             "repo": "MING",
-            "stars": 1184,
+            "stars": 1185,
             "topics": [
               "consultation",
               "huggingface",
@@ -192,7 +192,7 @@
             "open_issues": 31,
             "owner": "SCIR-HI",
             "repo": "Med-ChatGLM",
-            "stars": 1042,
+            "stars": 1043,
             "topics": [
               "chinese",
               "medical",
@@ -353,6 +353,27 @@
         },
         {
           "node_type": "item",
+          "title": "[2023/08] DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation Zhijie Bao et al. arXiv. [paper",
+          "description": "FudanDISC/DISC-MedLLM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare services.",
+            "homepage": null,
+            "id": 683734361,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2023-10-28T21:33:14Z",
+            "open_issues": 16,
+            "owner": "FudanDISC",
+            "repo": "DISC-MedLLM",
+            "stars": 568,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:35:17.423Z"
+        },
+        {
+          "node_type": "item",
           "title": "[2023/04] MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data Tianyu Han et al. arXiv. [paper",
           "description": "kbressem/medAlpaca",
           "children": [],
@@ -368,27 +389,6 @@
             "owner": "kbressem",
             "repo": "medAlpaca",
             "stars": 568,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:35:17.423Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[2023/08] DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation Zhijie Bao et al. arXiv. [paper",
-          "description": "FudanDISC/DISC-MedLLM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Repository of DISC-MedLLM, it is a comprehensive solution that leverages Large Language Models (LLMs) to provide accurate and truthful medical response in end-to-end conversational healthcare services.",
-            "homepage": null,
-            "id": 683734361,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2023-10-28T21:33:14Z",
-            "open_issues": 16,
-            "owner": "FudanDISC",
-            "repo": "DISC-MedLLM",
-            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -601,7 +601,7 @@
             "open_issues": 7,
             "owner": "Zlasejd",
             "repo": "HuangDI",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "ancient-books",
               "llm",
@@ -874,7 +874,7 @@
             "open_issues": 40,
             "owner": "PharMolix",
             "repo": "OpenBioMed",
-            "stars": 1104,
+            "stars": 1105,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1371,7 +1371,7 @@
                     "open_issues": 116,
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 18053,
+                    "stars": 18052,
                     "topics": [
                       "chain-of-thought",
                       "in-context-learning",
@@ -1439,7 +1439,7 @@
                     "open_issues": 34,
                     "owner": "WooooDyy",
                     "repo": "LLM-Agent-Paper-List",
-                    "stars": 8222,
+                    "stars": 8229,
                     "topics": [
                       "agent",
                       "large-language-models",
@@ -1466,7 +1466,7 @@
                     "open_issues": 8,
                     "owner": "MLGroupJLU",
                     "repo": "LLM-eval-survey",
-                    "stars": 1611,
+                    "stars": 1612,
                     "topics": [
                       "benchmark",
                       "evaluation",
@@ -1585,10 +1585,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-10T05:03:06Z",
-                "open_issues": 35,
+                "open_issues": 36,
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22767,
+                "stars": 22768,
                 "topics": [
                   "awesome-lists",
                   "chatglm",
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:12:37.257Z",
+    "last_updated": "2026-10-13T14:04:01.757Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
@@ -1671,7 +1671,7 @@
       "open_issues": 0,
       "owner": "mingze-yuan",
       "repo": "Awesome-LLM-Healthcare",
-      "stars": 275,
+      "stars": 276,
       "topics": [
         "agent",
         "awesome",
