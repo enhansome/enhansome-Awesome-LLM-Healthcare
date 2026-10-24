@@ -48,7 +48,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 5001,
+            "stars": 5002,
             "topics": [
               "aidoctor",
               "bloom",
@@ -80,7 +80,7 @@
             "open_issues": 23,
             "owner": "llSourcell",
             "repo": "Doctor-Dignity",
-            "stars": 3809,
+            "stars": 3808,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -353,27 +353,6 @@
         },
         {
           "node_type": "item",
-          "title": "[2023/04] MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data Tianyu Han et al. arXiv. [paper",
-          "description": "kbressem/medAlpaca",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "LLM finetuned for medical question answering",
-            "homepage": null,
-            "id": 620345178,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2023-09-07T12:38:17Z",
-            "open_issues": 14,
-            "owner": "kbressem",
-            "repo": "medAlpaca",
-            "stars": 568,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T18:35:17.423Z"
-        },
-        {
-          "node_type": "item",
           "title": "[2023/08] DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation Zhijie Bao et al. arXiv. [paper",
           "description": "FudanDISC/DISC-MedLLM",
           "children": [],
@@ -388,6 +367,27 @@
             "open_issues": 16,
             "owner": "FudanDISC",
             "repo": "DISC-MedLLM",
+            "stars": 567,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T18:35:17.423Z"
+        },
+        {
+          "node_type": "item",
+          "title": "[2023/04] MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data Tianyu Han et al. arXiv. [paper",
+          "description": "kbressem/medAlpaca",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LLM finetuned for medical question answering",
+            "homepage": null,
+            "id": 620345178,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2023-09-07T12:38:17Z",
+            "open_issues": 14,
+            "owner": "kbressem",
+            "repo": "medAlpaca",
             "stars": 567,
             "topics": []
           },
@@ -438,7 +438,7 @@
             "open_issues": 7,
             "owner": "michael-wzhu",
             "repo": "ShenNong-TCM-LLM",
-            "stars": 513,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -824,7 +824,7 @@
             "open_issues": 87,
             "owner": "OptimalScale",
             "repo": "LMFlow",
-            "stars": 8482,
+            "stars": 8483,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -986,7 +986,7 @@
             "open_issues": 19,
             "owner": "snap-stanford",
             "repo": "med-flamingo",
-            "stars": 457,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1371,7 +1371,7 @@
                     "open_issues": 119,
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 18062,
+                    "stars": 18066,
                     "topics": [
                       "chain-of-thought",
                       "in-context-learning",
@@ -1406,7 +1406,7 @@
                     "open_issues": 30,
                     "owner": "RUCAIBox",
                     "repo": "LLMSurvey",
-                    "stars": 12230,
+                    "stars": 12229,
                     "topics": [
                       "chain-of-thought",
                       "chatgpt",
@@ -1564,10 +1564,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 484,
+                "open_issues": 485,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27449,
+                "stars": 27450,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1588,7 +1588,7 @@
                 "open_issues": 36,
                 "owner": "AiHubCN",
                 "repo": "Awesome-Chinese-LLM",
-                "stars": 22775,
+                "stars": 22774,
                 "topics": [
                   "awesome-lists",
                   "chatglm",
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:30:01.547Z",
+    "last_updated": "2026-10-24T10:49:18.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
