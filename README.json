@@ -48,7 +48,7 @@
             "open_issues": 28,
             "owner": "SCIR-HI",
             "repo": "Huatuo-Llama-Med-Chinese",
-            "stars": 4999,
+            "stars": 5000,
             "topics": [
               "aidoctor",
               "bloom",
@@ -164,7 +164,7 @@
             "open_issues": 23,
             "owner": "MediaBrain-SJTU",
             "repo": "MING",
-            "stars": 1190,
+            "stars": 1191,
             "topics": [
               "consultation",
               "huggingface",
@@ -388,7 +388,7 @@
             "open_issues": 16,
             "owner": "FudanDISC",
             "repo": "DISC-MedLLM",
-            "stars": 567,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -601,7 +601,7 @@
             "open_issues": 7,
             "owner": "Zlasejd",
             "repo": "HuangDI",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "ancient-books",
               "llm",
@@ -853,7 +853,7 @@
             "open_issues": 109,
             "owner": "microsoft",
             "repo": "LLaVA-Med",
-            "stars": 2238,
+            "stars": 2239,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1564,7 +1564,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 498,
+                "open_issues": 500,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
                 "stars": 27484,
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:08:57.731Z",
+    "last_updated": "2026-11-07T12:52:17.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
