@@ -325,7 +325,7 @@
             "open_issues": 26,
             "owner": "chaoyi-wu",
             "repo": "PMC-LLaMA",
-            "stars": 680,
+            "stars": 681,
             "topics": []
           },
           "first_seen": "2026-08-28T18:35:17.423Z"
@@ -824,7 +824,7 @@
             "open_issues": 86,
             "owner": "OptimalScale",
             "repo": "LMFlow",
-            "stars": 8484,
+            "stars": 8483,
             "topics": [
               "chatgpt",
               "deep-learning",
@@ -1371,7 +1371,7 @@
                     "open_issues": 119,
                     "owner": "BradyFU",
                     "repo": "Awesome-Multimodal-Large-Language-Models",
-                    "stars": 18080,
+                    "stars": 18081,
                     "topics": [
                       "chain-of-thought",
                       "in-context-learning",
@@ -1406,7 +1406,7 @@
                     "open_issues": 30,
                     "owner": "RUCAIBox",
                     "repo": "LLMSurvey",
-                    "stars": 12231,
+                    "stars": 12227,
                     "topics": [
                       "chain-of-thought",
                       "chatgpt",
@@ -1564,10 +1564,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2025-07-31T02:38:24Z",
-                "open_issues": 501,
+                "open_issues": 503,
                 "owner": "Hannibal046",
                 "repo": "Awesome-LLM",
-                "stars": 27491,
+                "stars": 27494,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:35:17.423Z"
@@ -1659,7 +1659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T16:01:53.203Z",
+    "last_updated": "2026-11-10T14:45:51.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "The paper list of the review on LLMs in medicine - \"Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review\".",
